@@ -36,3 +36,13 @@
     6. Convert messy data into readable data
     
     7. Store the final output as required format
+       
+# Limitations
+
+    1. It is complex than BeautifulSoup
+    
+    2. It cant be setup right away in notebooks
+    
+   
+    
+    
